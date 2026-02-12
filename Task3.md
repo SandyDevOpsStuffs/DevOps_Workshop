@@ -1,5 +1,5 @@
 # **Task #3**
-# **Automate System Monitoring with Bash and Cron Jobs**
+# **Automate System Monitoring with Bash Script and Cron Jobs**
 
 Explain it with https://crontab.guru/
 
