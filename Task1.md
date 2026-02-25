@@ -9,6 +9,7 @@
 * _**Note:** Ensure the **region** in which you are creating the instance._
 * **Name:** Instance1
 * **OS:** Ubuntu
+* _**Note:** Remember the AMI (Amazon Machine Image) ID. We will cross check or verify this afer the creation of the EC2 instance.
 * **Instance Type:** t2.micro (1 vCPU, 1 GB RAM) (for free tier) **OR** t2.xlarge (4 vCPUs, 16 GB RAM)
 * **Create key pair:** demo
 * _**Note:** Keep .pem file securely in a folder (eg. DevOps_Workshop)_
