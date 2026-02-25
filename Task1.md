@@ -22,7 +22,7 @@
 
 ### Step 7: Explore all the details of newly created EC2 instance
 * Click on the **Instance ID** shown in success message.
-* Make sure that the Instance1 is in **Running** state and **passed 2 checks**.
+* Make sure that the Instance1 is in **Running** state and **passed 2 checks**. Also observe **Availability zone**, **Security group ID**, etc.
 * Note down the **Private IP** and **Public IP**
 * Look at **Instance type**
 * Look at the **Elastic IP**
@@ -44,3 +44,4 @@
 * Type **yes** when it prompts confirmation for connection
 * Now you successfully connected your **local machine** to **remote EC2 instance**
 * Obeserve **private IP** in terminal
+* Now stop the instance and start the instance again. This time public IP has been changed. So whenever the EC2 instance restarts, its public IP will be changed. So the solution for it in real time is using Elastic IP.
