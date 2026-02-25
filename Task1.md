@@ -1,7 +1,7 @@
 # **Task #1**
 ## **Manually Create an EC2 Instance on AWS and Connect to it using SSH**
 ### Step 1: Create a folder **DevOps_Workshop** on desktop
-### Step 2: Go to **AWS Management Console** and login as a **root user**
+### Step 2: Go to **AWS Management Console** and login as a **root user** and go to **Mumbai** region
 ### Step 3: Go the service **EC2**
 ### Step 4: Go to **Instances**
 ### Step 5: Click on **Launch instances**
