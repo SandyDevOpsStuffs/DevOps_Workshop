@@ -9,7 +9,7 @@
 * _**Note:** Ensure the **region** in which you are creating the instance._
 * **Name:** Instance1
 * **OS:** Ubuntu
-* **Instance Type:** t2.xlarge (4 vCPUs, 16 GB RAM)
+* **Instance Type:** t2.micro (1 vCPU, 1 GB RAM) (for free tier) **OR** t2.xlarge (4 vCPUs, 16 GB RAM)
 * **Create key pair:** demo
 * _**Note:** Keep .pem file securely in a folder (eg. DevOps_Workshop)_
 * Create a security group by allowing SSH (22), HTTP (80) and HTTPS (443).
