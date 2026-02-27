@@ -1,4 +1,4 @@
-# **Task #8**
+# **Task #6**
 # **Create a Docker image from a Dockerfile to run a simple web application.**
 
 Please refer my blog:
